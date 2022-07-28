@@ -1,0 +1,20 @@
+{
+    "name": "maxim/testing",
+    "description": "Testing for testing",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Maxim\\Testing\\": "src/"
+        },
+        "files": [
+            "src/StringUtils.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "m.vorobyev",
+            "email": "max9680@mail.ru"
+        }
+    ],
+    "require": {}
+}
