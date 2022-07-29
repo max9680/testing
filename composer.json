@@ -16,5 +16,7 @@
             "email": "max9680@mail.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "webmozart/assert": "^1.11"
+    }
 }
